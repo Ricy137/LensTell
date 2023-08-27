@@ -1,11 +1,13 @@
 # LensTell
  A storytelling product which mint you a character NFT according to the provided profile id.
- Wath the demo on [youtube](https://www.youtube.com/watch?v=W6x2ee_6wGQ) 
+ Wath the demo on [youtube]([https://www.youtube.com/watch?v=W6x2ee_6wGQ](https://www.youtube.com/watch?v=XxM6WYwOGkQ)) 
 
 - contract: contains the smart contract code
   the main contract is the contract/contracts/LensTell.sol
 - frontend: contains the frontend code
 - lensAPIOracle: the lens oracle data cource code in blueprint
+  *Both contract and frontend fold contains README for deployment or set up dev environment*
+  
 
 
 # Introduction
