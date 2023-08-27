@@ -1,5 +1,6 @@
 # LensTell
- A storytelling product which mint you a character NFT according to the provided profile id.
+ Give the magic ball a profile id and it will tell a character from the lens profile data. No solid psychology knowlege backed, it's a story telling product so just enjoy the story and have fun🔮
+ 
  Wath the demo on [youtube]([https://www.youtube.com/watch?v=W6x2ee_6wGQ](https://www.youtube.com/watch?v=XxM6WYwOGkQ)) 
 
 - contract: contains the smart contract code
@@ -18,6 +19,7 @@ Provide a lens profile Id in the frontend. Then send the tell request to mumbai 
 Wait quietly for a while, then you will recieve what the magic ball tell about the provided id and at the same time you would recieve an NFT which represents the words of the magic ball.
 
 # Characters
+
 
 # Transaction details
 
