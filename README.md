@@ -25,21 +25,24 @@ The main idea of the project is storytelling. Stories're powerful, they're unive
 # Characters
 Based on differect data characters of the lens profile, we provide nine in total characters.
 
-character example: 
+##character example: 
 
-Name: Luminous Conductor
+###Name: Luminous Conductor
 
-illustration:
+###illustration:
 
 ![luminousConductor](https://github.com/Ricy137/LensTell/assets/97211928/03596ae3-7970-498d-910b-4da13c90fbd6)
 
-description:
+###description:
 A conductor of ethereal energies, the Luminous Conductor orchestrates symphonies of wisdom and insight. Their posts are notes in a celestial score, resonating with harmony. Collectors are drawn to these luminous compositions, forming a celestial orchestra of enlightenment.
 
-related lens data character: follower/(following+1)>=6 and 0.1>ratio>0.01 (much more followers than following and Balanced Publication and Collect Numbers )
+###related lens data character:
+follower/(following+1)>=6 and 0.1>ratio>0.01 (much more followers than following and Balanced Publication and Collect Numbers )
 
-**What to learn the dark magic behind? Well, be careful, it's dark magic😈 (how the nine characters generated)**
+##What to learn the dark magic behind? Well, be careful, it's dark magic😈 (how the nine characters generated)
+
 3 base characters are given according to the ratios of follower/following 
+
 |ratio|base character|base character description|
 |-|-|-|
 |follower/(following+1)>=6|Digital Luminary| Like a supernova lighting up the social media galaxy, the Digital Luminary's posts shine brilliantly, guiding others with their captivating content. Their massive following is a constellation of supporters drawn to their wisdom and charisma, turning their profile into a beacon of inspiration.|
