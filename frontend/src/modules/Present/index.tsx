@@ -21,7 +21,7 @@ const Present: React.FC = () => {
             Reading...It may take a long time
           </div>
         )}
-        {tell && tell !== -1 && <div>The profile is...{tells[tell - 1]}</div>}
+        {!!tell && tell !== -1 && <div>The profile is...{tells[tell - 1]}</div>}
       </div>
       <Image
         alt="bg"
