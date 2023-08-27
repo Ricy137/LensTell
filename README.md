@@ -9,8 +9,9 @@
   the main contract is the contract/contracts/LensTell.sol
 - frontend: contains the frontend code
 - lensAPIOracle: the lens oracle data cource code in blueprint
-  
-  *Both contract and frontend fold contains README for detailed deployment or set up dev environment steps*
+
+
+*Detailed deployment or set up dev environment steps are in frontend or contract folder's own README*
   
 
 
