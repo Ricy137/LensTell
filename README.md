@@ -2,7 +2,8 @@
  Give the magic ball a profile id and it will tell a character from the lens profile data. No solid psychology knowlege backed, it's a story telling product so just enjoy the story and have fun🔮
  
  Wath the demo on [youtube](https://www.youtube.com/watch?v=XxM6WYwOGkQ)
-
+ [Live demo](https://lens-tell.vercel.app/)
+ 
 - contract: contains the smart contract code
   the main contract is the contract/contracts/LensTell.sol
 - frontend: contains the frontend code
