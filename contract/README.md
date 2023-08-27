@@ -76,4 +76,4 @@ Done
 
 ## Closing
 Once you have stored, the deployed address of the Consumer Contract and set the value in the "Configure Client" section of the deployed LensAPI Oracle, you will now have a basic boilerplate example of how to connect your Polygon dApp to a LensAPI Oracle Blueprint. Execute a new requests and check if your configuration is correct like below:
-![](./assets/polygonscan-ex.png)
+<img width="1396" alt="Screen Shot 2023-08-27 at 16 16 42" src="https://github.com/Ricy137/LensTell/assets/97211928/c1640b2e-8fc1-423d-99a6-8d91bbaf7ec8">
