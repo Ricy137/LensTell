@@ -20,8 +20,11 @@ Wait quietly for a while, then you will recieve what the magic ball tell about t
 
 # Characters
 example: 
+
 Luminous Conductor
+
 ![luminousConductor](https://github.com/Ricy137/LensTell/assets/97211928/03596ae3-7970-498d-910b-4da13c90fbd6)
+
 A conductor of ethereal energies, the Luminous Conductor orchestrates symphonies of wisdom and insight. Their posts are notes in a celestial score, resonating with harmony. Collectors are drawn to these luminous compositions, forming a celestial orchestra of enlightenment.
 
 According to the ratios of follower/following and the ratio of collects/publications, it will give 3*3=9 characters. For full characters reference : ipfs://QmQxfPhnrKiRCAFPzDGk6BhTz7qBMUejsBKH4cXDWEEqSc
