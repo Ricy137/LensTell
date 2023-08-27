@@ -10,8 +10,12 @@
 
 # Introduction
 Welcom to LensTell, where dark magic weaves secrets into stories🔮. 
+
 Provide a lens profile Id in the frontend. Then send the tell request to mumbai network with 0.01 matic to unlock ancient forces .
+
 Wait quietly for a while, then you will recieve what the magic ball tell about the provided id and at the same time you would recieve an NFT which represents the words of the magic ball.
+
+# Characters
 
 # Transaction details
 
