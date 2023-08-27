@@ -16,12 +16,13 @@ const Present: React.FC = () => {
       )}
     >
       <div className="pt-[40px] w-4/5 text-center">
-        {tell === -1 && (
+        {/* {tell === -1 && (
           <div className="text-[24px] leading-[32px]">
             Reading...It may take a long time
           </div>
         )}
-        {tell && tell !== -1 && <div>The profile is...{tells[tell]}</div>}
+        {tell && tell !== -1 && <div>The profile is...{tells[tell-1]}</div>} */}
+        { <div>The profile is...{tells[0]}</div>}
       </div>
       <Image
         alt="bg"

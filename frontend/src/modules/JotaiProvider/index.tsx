@@ -6,7 +6,6 @@ import { asyncAccountsAtom, accountsAtom } from "@/services/accounts";
 import { errorMessage } from "@/utils/error";
 import { WagmiConfig, createConfig, configureChains } from "wagmi";
 import { polygonMumbai } from "wagmi/chains";
-import { publicProvider } from "wagmi/providers/public";
 import { alchemyProvider } from "wagmi/providers/alchemy";
 
 const { publicClient, webSocketPublicClient } = configureChains(
