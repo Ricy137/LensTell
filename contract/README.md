@@ -52,6 +52,23 @@ Ensure to save the address after deploying the Consumer Contract because this ad
 $ yarn test-deploy
 # Deployed { consumer: '0xFE6185Aad4277C38E9C59DBe17c2319FDf9a4FE2' }
 ```
+
+#### Verify Contract on Polygon Mumbai Testnet
+Ensure to update the [`mumbai.arguments.ts`](./mumbai.arguments.ts) file with the constructor arguments used to instantiate the Consumer Contract. If you add additional parameters to the constructor function then make sure to update the `mumbai.arguments.ts` file.
+> **Note**: Your contract address will be different than `0x50B619C3f79C4502223a8C805eE9Ab87e4bC0901` when verifying your contract. Make sure to get your actual contract address from the console log output after executing `yarn test-deploy`.
+```shell
+$ yarn test-verify 0x50B619C3f79C4502223a8C805eE9Ab87e4bC0901
+Nothing to compile
+No need to generate any newer typings.
+Successfully submitted source code for contract
+contracts/TestLensApiConsumerContract.sol.sol.sol:TestLensApiConsumerContract.sol at 0x50B619C3f79C4502223a8C805eE9Ab87e4bC0901
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract TestLensApiConsumerContract.sol on Etherscan.
+https://mumbai.polygonscan.com/address/0x50B619C3f79C4502223a8C805eE9Ab87e4bC0901#code
+Done in 8.88s.
+```
+
 #### Interact with Consumer Contract on Polygon Mumbai
 Test Consumer Contract on Mumbai with a few tests to check for malformed requests failures, successful requests, and set the attestor.
 ```shell
