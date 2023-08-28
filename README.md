@@ -16,7 +16,7 @@
 
 
 # Introduction
-Welcom to LensTell, where dark magic weaves secrets into stories🔮. 
+Welcom to LensTell, where dark magic weaves lens data secrets into stories🔮. 
 
 Provide a lens profile Id in the frontend. Then send the tell request to mumbai network with 0.01 matic to unlock ancient forces .
 
