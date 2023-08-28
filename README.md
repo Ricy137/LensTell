@@ -24,7 +24,6 @@ Wait quietly for a while, then you will recieve what the magic ball tell about t
 
 The main idea of the project is storytelling. Stories're powerful, they're universal languages, spreading everywhere and sparking imagination. NFT is a popular approach for artists to create, lens is a hot web3 social network, they're two excellent materials for storytelling. However,for web3 artists,combining the two materials can be challenging, since blockchain data(lens data here) is hard to computed *decentralizly* . I hope LensTell demonstrate how you can compute and consume data from different resources decentralizedly and automatically with Phala, and thus, with the ability to combine data more flexibly, artists have an abundance of materials to unleash their creativity.
 
-Anyway, just enjoy the stories <3~
 
 # Characters
 Based on differect data characters of the lens profile, we provide nine in total characters.
