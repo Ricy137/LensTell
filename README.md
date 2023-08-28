@@ -41,9 +41,9 @@ Based on differect data characters of the lens profile, we provide nine in total
 like wise, 3 base characters are given according to the ratios of collections/(publications+0.0001)
 |ratio|base character|traits|base character description|
 |-|-|-|-|
-|>0.1|Sculpted Insight Curator| Prolific, Inventive, Engaging|Much like a curator of rare artifacts, the Sculpted Insight Curator releases only gems into the digital realm. Their posts are like intricately sculpted sculptures, each piece meticulously carved to reveal layers of wisdom. Collectors flock to their creations, recognizing the value of each piece and cherishing them like precious relics.|
+|>0.1|Sculpted Insight Curator| Curatorial, Reflective, Insightful|Much like a curator of rare artifacts, the Sculpted Insight Curator releases only gems into the digital realm. Their posts are like intricately sculpted sculptures, each piece meticulously carved to reveal layers of wisdom. Collectors flock to their creations, recognizing the value of each piece and cherishing them like precious relics.|
 |0.1>ratio>0.01|Equilibrium Artisan|Harmonious, Attentive, Consistent|The Equilibrium Artisan treads the delicate balance between expression and reception, crafting posts like delicate brushstrokes on a canvas. Their creations are akin to a zen garden, where every stone (post) and every raked line (collect) is purposefully placed, inviting contemplation and reverence|
-|ratio<=0.01|Content Maestro| Curatorial, Reflective, Insightful|Like a fountain of creativity, the Content Maestro's posts flow ceaselessly, each drop a masterpiece of innovation. Their creations are like magnetic treasures, drawing admirers who eagerly collect and support their endeavors, forming a gallery of inspiration.|
+|ratio<=0.01|Content Maestro| Prolific, Inventive, Engaging|Like a fountain of creativity, the Content Maestro's posts flow ceaselessly, each drop a masterpiece of innovation. Their creations are like magnetic treasures, drawing admirers who eagerly collect and support their endeavors, forming a gallery of inspiration.|
 
 In the end, combine these base characters, we can get 3*3=9 totally new characters. Then with the help of **stable diffusion**, I turned the 9 new characters' description into illustrations. Congratulations! You've gratuated from the magic mini class, maybe Hogwarts for your next step?
 
