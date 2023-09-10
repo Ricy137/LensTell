@@ -3,8 +3,6 @@
  
  Wath the demo on [youtube](https://www.youtube.com/watch?v=XxM6WYwOGkQ)
  
- [Live demo](https://lens-tell.vercel.app/) (make sure the profile id is hex format, since related validatioin hasn't been set yet)
- 
 - contract: contains the smart contract code
   the main contract is the contract/contracts/LensTell.sol
 - frontend: contains the frontend code
